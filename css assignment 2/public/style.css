@@ -1,0 +1,62 @@
+body {
+    /* background-color: bisque; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    /* background-color: rgb(157, 226, 203); */
+    padding: 10px;
+
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+h1 {
+    padding-left: 10px;
+    line-height: 2em;
+}
+
+.header p {
+    padding: 0px 0px 0px 10px;
+}
+
+ul {
+    background-color: rgb(41, 41, 105);
+    padding: 10px;
+
+}
+
+li {
+    list-style: none;
+    display: inline;
+
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding-left: 40px;
+
+
+}
+
+h3 {
+    border-radius: 5px;
+    padding: 0.3em;
+    background-image: linear-gradient(rgb(223, 223, 223), rgb(143, 143, 143));
+    box-shadow: 0px 4px 8px rgb(12, 12, 12);
+
+}
+
+a {
+    font-size: small;
+    text-decoration: none;
+    color: rgb(78, 77, 77);
+
+
+}
