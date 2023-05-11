@@ -1,0 +1,16 @@
+.section {
+    background-image: url('https://thoughtful-7f9d1.web.app/images/pexels-photo-9392381.jpeg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Bg {
+    background-color: rgb(229, 231, 231);
+}
+
+img {
+    max-width: 100%;
+}
